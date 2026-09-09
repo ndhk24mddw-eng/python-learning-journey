@@ -1,0 +1,6 @@
+f = open('ronak1.txt','w')
+f.write(' ram ram bhai log')
+f.write('\n ram ram bhai log')
+f.write('\n ram ram bhai log')
+f.write('\n ram ram bhai log')
+f.close()
